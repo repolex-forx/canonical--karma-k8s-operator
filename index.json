@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "karma-k8s-operator",
+  "versions": [
+    {
+      "commit": "695cabccb38fbe900689776a9de70ddb399450f8",
+      "tag": "",
+      "parsed_at": "2026-11-08T15:22:38.222762+00:00"
+    }
+  ]
+}
