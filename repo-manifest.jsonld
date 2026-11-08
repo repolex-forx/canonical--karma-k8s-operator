@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/karma-k8s-operator/commit/695cabccb38fbe900689776a9de70ddb399450f8",
       "git:hexsha": "695cabccb38fbe900689776a9de70ddb399450f8",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/karma-k8s-operator/commit/4b64032bdf1b4658fc899a82cf5856dccd1ec8c8",
